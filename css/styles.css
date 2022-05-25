@@ -22,9 +22,15 @@ header {
 .logo-color {
   color: #2196f3;
 }
+.site-navi {
+  list-style-type: none;
+}
 .navi-item {
   text-decoration: none;
   color: #212121;
+}
+.contacts {
+  list-style-type: none;
 }
 .contact {
   text-decoration: none;
@@ -64,6 +70,9 @@ header {
   text-align: center;
   letter-spacing: 0.06em;
 }
+.list {
+  list-style-type: none;
+}
 .list-heading {
   font-weight: 700;
   letter-spacing: 0.03em;
@@ -81,6 +90,9 @@ header {
   text-align: center;
   letter-spacing: 0.03em;
 }
+.second-title-list {
+  list-style-type: none;
+}
 .our-team {
   background-color: #f5f4fa;
   font-size: 16px;
@@ -93,6 +105,9 @@ header {
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
+}
+.our-team-list {
+  list-style-type: none;
 }
 .name {
   font-weight: 500;
@@ -120,6 +135,9 @@ header {
   text-align: center;
   letter-spacing: 0.03em;
 }
+.portfolio-button-list {
+  list-style-type: none;
+}
 .portfolio-button:hover,
 .portfolio-button:focus {
   background: #2196f3;
@@ -130,6 +148,9 @@ header {
 .box {
   background: #ffffff;
   border: 1px solid #eeeeee;
+}
+.box-list {
+  list-style-type: none;
 }
 .box-name {
   font-weight: 700;
